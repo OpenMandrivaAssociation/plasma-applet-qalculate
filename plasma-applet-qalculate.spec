@@ -30,7 +30,7 @@ of features like unit calculation or currency conversion.
 
 %prep
 %setup -q -n qalculate-%{version}
-%apply_patches
+%autopatch -p1
 
 %build
 %cmake_kde5
