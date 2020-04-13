@@ -29,7 +29,7 @@ of features like unit calculation or currency conversion.
 #---------------------------------------------------------------------------
 
 %prep
-%setup -q -n qalculate-%{version}
+%setup -q -n %{name}-%{version}
 %autopatch -p1
 
 %build
