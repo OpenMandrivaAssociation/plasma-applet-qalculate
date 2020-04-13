@@ -1,6 +1,6 @@
 Summary:	Qalculate! applet for plasma desktop
 Name:		plasma-applet-qalculate
-Version:	0.6
+Version:	0.8
 Release:	1
 License:	GPLv2+ and CC0 and LGPLv2.1+
 Group:		Graphical desktop/KDE
@@ -41,4 +41,3 @@ of features like unit calculation or currency conversion.
 
 # locales
 %find_lang plasma_applet_org.kde.plasma.qalculate
-
