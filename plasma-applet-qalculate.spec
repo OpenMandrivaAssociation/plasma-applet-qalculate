@@ -38,6 +38,3 @@ of features like unit calculation or currency conversion.
 
 %install
 %ninja_install -C build
-
-# locales
-%find_lang plasma_applet_org.kde.plasma.qalculate
