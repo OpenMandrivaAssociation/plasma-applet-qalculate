@@ -18,7 +18,7 @@ BuildRequires:	readline-devel
 A calculator plasma widget which uses the Qalculate! library to provide lots
 of features like unit calculation or currency conversion.
 
-%files  -f plasma_applet_org.kde.plasma.qalculate.lang
+%files
 %dir %{_kde5_datadir}/plasma/plasmoids/org.kde.plasma.qalculate/
 %{_kde5_datadir}/plasma/plasmoids/org.kde.plasma.qalculate/*
 %{_kde5_datadir}/metainfo/org.kde.plasma.qalculate.appdata.xml
