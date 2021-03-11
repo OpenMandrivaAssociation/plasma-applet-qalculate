@@ -25,7 +25,7 @@ of features like unit calculation or currency conversion.
 %{_kde5_qmldir}/org/kde/private/qalculate/libplasmoidplugin.so
 %{_kde5_qmldir}/org/kde/private/qalculate/qmldir
 %{_kde5_services}/plasma-applet-org.kde.plasma.qalculate.desktop
-%{_datadir}/locale/*/LC_MESSAGES/plasma_applet_qalculate.mo
+#{_datadir}/locale/*/LC_MESSAGES/plasma_applet_qalculate.mo
 
 #---------------------------------------------------------------------------
 
