@@ -11,6 +11,7 @@ BuildRequires:	cmake(ECM) >= 5.4.0
 BuildRequires:	cmake(KF5Plasma) >= 5.0.0
 BuildRequires:	cmake(Qt5Core) >= 5.4.0
 BuildRequires:	cmake(Qt5Quick)
+BuildRequires:  cmake(KF5I18n)
 BuildRequires:	pkgconfig(libqalculate) >= 0.9.8
 BuildRequires:	readline-devel
 
