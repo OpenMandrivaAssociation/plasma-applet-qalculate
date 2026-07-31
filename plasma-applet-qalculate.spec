@@ -1,7 +1,7 @@
 Summary:	Qalculate! applet for plasma desktop
 Name:		plasma-applet-qalculate
-Version:	0.9.0
-Release:	2
+Version:	0.10.1
+Release:	1
 License:	GPLv2+ and CC0 and LGPLv2.1+
 Group:		Graphical desktop/KDE
 Url:		https://store.kde.org/p/1155946/
